@@ -42,7 +42,7 @@ A aplicação estará rodando e você poderá interagir com o formulário de ins
 - Angular Material
 - CSS puro
 
-## Desenvolvedor
+## Desenvolvedores
 
 - Professor Gustavo
 - Heberty
